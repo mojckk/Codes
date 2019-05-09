@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>C2/skin_widget_blbk.png</file>
+        <file>C2/5.png</file>
+        <file>C2/anw.png</file>
+        <file>C2/cbk.png</file>
+        <file>C2/cblbk.png</file>
+        <file>C2/delete1.png</file>
+        <file>C2/delete2.png</file>
+        <file>C2/l1.png</file>
+        <file>C2/l2.png</file>
+        <file>C2/last1.png</file>
+        <file>C2/last2.png</file>
+        <file>C2/ln2.png</file>
+        <file>C2/next1.png</file>
+        <file>C2/next2.png</file>
+        <file>C2/print1.png</file>
+        <file>C2/print2.png</file>
+        <file>C2/rotatel1.png</file>
+        <file>C2/rotatel2 .png</file>
+        <file>C2/rotater1.png</file>
+        <file>C2/rotater2.png</file>
+        <file>C2/s.png</file>
+        <file>C2/s2.png</file>
+        <file>C2/save2.png</file>
+        <file>C2/bluebk.jpg</file>
+        <file>C2/save1.png</file>
+        <file>C2/open2.png</file>
+        <file>C2/open3.png</file>
+        <file>C2/all.png</file>
+        <file>C2/all0.png</file>
+        <file>C2/judge1.png</file>
+        <file>C2/judge2.png</file>
+    </qresource>
+</RCC>

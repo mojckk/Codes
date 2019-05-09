@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="CMessageBox.cpp" />
+    <ClCompile Include="ContentWidget.cpp" />
+    <ClCompile Include="FobDetect.cpp" />
+    <ClCompile Include="GeneratedFiles\Debug\moc_CMessageBox.cpp" />
+    <ClCompile Include="GeneratedFiles\Debug\moc_ContentWidget.cpp" />
+    <ClCompile Include="GeneratedFiles\Debug\moc_MainWindow.cpp" />
+    <ClCompile Include="GeneratedFiles\Debug\moc_PaintLabel.cpp" />
+    <ClCompile Include="GeneratedFiles\Debug\moc_qimageviewer.cpp" />
+    <ClCompile Include="GeneratedFiles\Debug\moc_SkinWidget.cpp" />
+    <ClCompile Include="GeneratedFiles\Debug\moc_State_Bar.cpp" />
+    <ClCompile Include="GeneratedFiles\Debug\moc_Title_Bar.cpp" />
+    <ClCompile Include="GeneratedFiles\Debug\moc_Tool_Bar.cpp" />
+    <ClCompile Include="GeneratedFiles\Debug\moc_TrayMenu.cpp" />
+    <ClCompile Include="GeneratedFiles\qrc_C1.cpp" />
+    <ClCompile Include="GeneratedFiles\qrc_C2.cpp" />
+    <ClCompile Include="GeneratedFiles\qrc_C3.cpp" />
+    <ClCompile Include="GeneratedFiles\qrc_C4.cpp" />
+    <ClCompile Include="GeneratedFiles\qrc_C5.cpp" />
+    <ClCompile Include="GeneratedFiles\qrc_MainWindow.cpp" />
+    <ClCompile Include="GeneratedFiles\Release\moc_CMessageBox.cpp" />
+    <ClCompile Include="GeneratedFiles\Release\moc_ContentWidget.cpp" />
+    <ClCompile Include="GeneratedFiles\Release\moc_MainWindow.cpp" />
+    <ClCompile Include="GeneratedFiles\Release\moc_PaintLabel.cpp" />
+    <ClCompile Include="GeneratedFiles\Release\moc_qimageviewer.cpp" />
+    <ClCompile Include="GeneratedFiles\Release\moc_SkinWidget.cpp" />
+    <ClCompile Include="GeneratedFiles\Release\moc_State_Bar.cpp" />
+    <ClCompile Include="GeneratedFiles\Release\moc_Title_Bar.cpp" />
+    <ClCompile Include="GeneratedFiles\Release\moc_Tool_Bar.cpp" />
+    <ClCompile Include="GeneratedFiles\Release\moc_TrayMenu.cpp" />
+    <ClCompile Include="iconhelper.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MainWindow.cpp" />
+    <ClCompile Include="PaintLabel.cpp" />
+    <ClCompile Include="qimageviewer.cpp" />
+    <ClCompile Include="SkinWidget.cpp" />
+    <ClCompile Include="State_Bar.cpp" />
+    <ClCompile Include="Title_Bar.cpp" />
+    <ClCompile Include="Tool_Bar.cpp" />
+    <ClCompile Include="TrayMenu.cpp" />
+    <ClCompile Include="FileManage.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CommonHelper.h" />
+    <ClInclude Include="FobDetect.h" />
+    <ClInclude Include="iconhelper.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="resource1.h" />
+    <ClCompile Include="GeneratedFiles\Debug\moc_PaintLabel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_PaintLabel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PaintLabel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="MainWindow.h" />
+    <CustomBuild Include="MainWindow.qrc" />
+    <CustomBuild Include="Title_Bar.h" />
+    <CustomBuild Include="TrayMenu.h" />
+    <CustomBuild Include="SkinWidget.h" />
+    <CustomBuild Include="State_Bar.h" />
+    <CustomBuild Include="ContentWidget.h" />
+    <CustomBuild Include="CMessageBox.h" />
+    <CustomBuild Include="qimageviewer.h" />
+    <CustomBuild Include="PaintLabel.h" />
+    <CustomBuild Include="C1.qrc" />
+    <CustomBuild Include="C2.qrc" />
+    <CustomBuild Include="C3.qrc" />
+    <CustomBuild Include="C4.qrc" />
+    <CustomBuild Include="C5.qrc" />
+    <CustomBuild Include="Tool_Bar.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="PaintLabel.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+      <ParseFiles>true</ParseFiles>
+    </Filter>
+    <ClInclude Include="FileManage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

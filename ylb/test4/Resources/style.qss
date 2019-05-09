@@ -1,0 +1,49 @@
+QToolTip{
+        border: 1px solid rgb(111, 156, 207);
+        background: rgb(200,200,200);
+        color: rgb(0,0,0);
+}
+
+QPushButton#m_pClothButton:hover{
+    position: relative;
+    top: 1px; left: 1px;
+    background: rgb(196,224,220);
+}
+QPushButton#m_pClothButton:pressed{
+    position: relative;
+    top: 1px; left: 1px;
+    background: rgb(153,208,224);
+}
+
+QPushButton#m_pCloseButton:hover{  
+    position: relative;
+    top: 1px; left: 1px;
+    background: rgb(196,224,220);
+}
+QPushButton#m_pCloseButton:pressed{
+    position: relative;
+    top: 1px; left: 1px;
+    background: rgb(153,208,224);
+}
+
+QPushButton#m_pMaximizeButton:hover{
+    position: relative;
+    top: 1px; left: 1px;
+    background: rgb(196,224,220);
+}
+QPushButton#m_pMaximizeButton:pressed{
+    position: relative;
+    top: 1px; left: 1px;
+    background: rgb(153,208,224);
+}
+
+QPushButton#m_pMinimizeButton:hover{  
+    position: relative;
+    top: 1px; left: 1px;
+    background: rgb(196,224,220);
+}
+QPushButton#m_pMinimizeButton:pressed{
+    position: relative;
+    top: 1px; left: 1px;
+    background: rgb(153,208,224);
+}

@@ -1,0 +1,133 @@
+
+QWidget#pTitleBar{
+    image: url(:/MainWindow/Resources/golden.png);
+}
+QLabel#m_pIconLabel:{
+    background-image: url(:/new/prefix1/C5/5.png);
+}
+
+QMainWindow#MainWindow{  
+   background-image: url(:/new/prefix1/C5/yellowbk.jpg);
+}
+
+QPushButton#m_pOpenButton:{
+   border-image: url(:/new/prefix1/C5/open3.png);
+}
+QPushButton#m_pOpenButton:hover{
+    border-image: url(:/new/prefix1/C5/open2.png);
+}
+QPushButton#m_pOpenButton:pressed{
+    border-image: url(:/new/prefix1/C5/open2.png);}
+}
+
+QPushButton#m_pJudgeButton{
+    border-image: url(:/new/prefix1/C5/judge2.png);
+}
+QPushButton#m_pJudgeButton:hover{
+    border-image: url(:/new/prefix1/C5/judge1.png);
+}
+QPushButton#m_pJudgeButton:pressed{
+    border-image: url(:/new/prefix1/C5/judge1.png);
+}
+
+QPushButton#m_pEnlargeButton{  
+    border-image: url(:/new/prefix1/C5/l2.png);
+}
+QPushButton#m_pEnlargeButton:hover{  
+    border-image: url(:/new/prefix1/C5/l1.png);
+}
+QPushButton#m_pEnlargeButton:pressed{
+   border-image: url(:/new/prefix1/C5/l1.png);
+}
+
+
+QPushButton#m_pShrinkButton{  
+    border-image: url(:/new/prefix1/C5/s2.png);
+}
+QPushButton#m_pShrinkButton:hover{  
+    border-image: url(:/new/prefix1/C5/s.png);
+}
+QPushButton#m_pShrinkButton:pressed{
+   border-image: url(:/new/prefix1/C5/s.png);
+}
+
+QPushButton#m_pDeleteButton{  
+    border-image: url(:/new/prefix1/C5/delete2.png);
+}
+QPushButton#m_pDeleteButton:hover{  
+    border-image: url(:/new/prefix1/C5/delete1.png);
+}
+QPushButton#m_pDeleteButton:pressed{
+   border-image: url(:/new/prefix1/C5/delete1.png);
+}
+
+QPushButton#m_pRotatelButton{  
+    border-image: url(:/new/prefix1/C5/rotatel2 .png);
+}
+QPushButton#m_pRotatelButton:hover{  
+    border-image: url(:/new/prefix1/C5/rotatel1.png);
+}
+QPushButton#m_pRotatelButton:pressed{
+   border-image: url(:/new/prefix1/C5/rotatel1.png);
+}
+
+QPushButton#m_pRotaterButton{  
+    border-image: url(:/new/prefix1/C5/rotater2.png);
+}
+QPushButton#m_pRotaterButton:hover{  
+    border-image: url(:/new/prefix1/C5/rotater1.png);
+}
+QPushButton#m_pRotaterButton:pressed{
+   border-image: url(:/new/prefix1/C5/rotater1.png);
+}
+
+QPushButton#m_pPrintButton{  
+    border-image: url(:/new/prefix1/C5/print2.png);
+}
+QPushButton#m_pPrintButton:hover{  
+    border-image: url(:/new/prefix1/C5/print1.png);
+}
+QPushButton#m_pPrintButton:pressed{
+   border-image: url(:/new/prefix1/C5/print1.png);
+}
+
+QPushButton#m_pSaveButton{  
+    border-image: url(:/new/prefix1/C5/save2.png);
+}
+QPushButton#m_pSaveButton:hover{  
+    border-image: url(:/new/prefix1/C5/save1.png);
+}
+QPushButton#m_pSaveButton:pressed{
+   border-image: url(:/new/prefix1/C5/save1.png);
+}
+
+QLabel#m_pLabel{
+       image: url(:/new/prefix1/C5/anw.png);   
+}
+
+QSystemTrayIcon #pSystemTray{
+    image: url(:/new/prefix1/C5/anw.png);   
+}
+
+QPushButton#m_pLastButton{  
+    border-image: url(:/MainWindow/Resources/ln2.png);
+}
+QPushButton#m_pLastButton:hover{  
+    border-image: url(:/MainWindow/Resources/last2.png);
+}
+QPushButton#m_pLastButton:pressed{
+   border-image: url(:/MainWindow/Resources/last1.png);
+}
+
+
+QPushButton#m_pNextButton{  
+    border-image: url(:/MainWindow/Resources/ln2.png);
+}
+QPushButton#m_pNextButton:hover{  
+    border-image: url(:/MainWindow/Resources/next2.png);
+}
+QPushButton#m_pNextButton:pressed{
+   border-image: url(:/MainWindow/Resources/next1.png);
+}
+
+
